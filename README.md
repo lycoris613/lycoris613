@@ -37,8 +37,8 @@ I keep my coursework in one place and write study notes along the way.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lycoris613&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lycoris613&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lycoris613&show_icons=true&title_color=00e5ff&text_color=d7d2ff&icon_color=ff2bd6&bg_color=05010f&border_color=7b2ff7&border_radius=6" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lycoris613&layout=compact&title_color=00e5ff&text_color=d7d2ff&icon_color=ff2bd6&bg_color=05010f&border_color=7b2ff7&border_radius=6" alt="top languages" />
 
 </div>
 
