@@ -42,4 +42,4 @@ I keep my coursework in one place and write study notes along the way.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7b2ff7,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="end of line - cyberpunk footer" />
