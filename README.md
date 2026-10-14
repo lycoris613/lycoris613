@@ -8,12 +8,12 @@
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=👋+About+me" alt="About me" />
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=%F0%9F%91%8B+About+me" alt="About me" />
 
 I'm a bootcamp student building full-stack skills — from Java and Spring to React and Python data work.
 I keep my coursework in one place and write study notes along the way.
 
-## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=🧰+Tech+stack" alt="Tech stack" />
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=%F0%9F%A7%B0+Tech+stack" alt="Tech stack" />
 
 <div align="center">
 
@@ -27,13 +27,13 @@ I keep my coursework in one place and write study notes along the way.
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=📌+Featured" alt="Featured" />
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=%F0%9F%93%8C+Featured" alt="Featured" />
 
 | Repository | What's inside |
 | --- | --- |
 | [**shieldusboot**](https://github.com/lycoris613/shieldusboot) | All bootcamp material in one repo: Java, Spring Framework, Spring Boot, HTML/CSS/JS/React, web scraping, and study notes |
 
-## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=📊+GitHub+stats" alt="GitHub stats" />
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=%F0%9F%93%8A+GitHub+stats" alt="GitHub stats" />
 
 <div align="center">
 
