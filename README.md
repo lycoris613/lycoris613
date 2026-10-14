@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7b2ff7,100:00e5ff&height=200&section=header&text=victor%20jang&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=i%20just%20want%20to%20be%20happy%20%3A%29&descAlignY=60&descSize=18" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7b2ff7,100:00e5ff&height=200&section=header&text=victor%20jang&fontColor=ffffff&fontSize=56&fontAlignY=38&font=Orbitron&desc=i%20just%20want%20to%20be%20happy%20%3A%29&descAlignY=60&descSize=18" alt="header" width="100%" />
 
 <a href="https://github.com/lycoris613">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=Backend+%26+Frontend+bootcamp+student;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Python;Learning+in+public%2C+one+commit+at+a+time" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=Backend+%26+Frontend+bootcamp+student;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Python;Learning+in+public%2C+one+commit+at+a+time" alt="typing" />
 </a>
 
 </div>
