@@ -59,7 +59,6 @@ I keep my coursework in one place and write study notes along the way.
 [![GitHub](https://img.shields.io/badge/GitHub-lycoris613-05010f?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=05010f&color=7b2ff7)](https://github.com/lycoris613)
 [![Instagram](https://img.shields.io/badge/Instagram-mayilyko-05010f?style=for-the-badge&logo=instagram&logoColor=ff2bd6&labelColor=05010f&color=7b2ff7)](https://www.instagram.com/mayilyko/)
 [![Roblox](https://img.shields.io/badge/Roblox-profile-05010f?style=for-the-badge&logo=roblox&logoColor=00e5ff&labelColor=05010f&color=7b2ff7)](https://www.roblox.com/users/516660721/profile)
-![Visitors](https://komarev.com/ghpvc/?username=lycoris613&style=for-the-badge&color=7b2ff7&label=VISITORS&labelColor=05010f&cache=2)
 
 </div>
 
