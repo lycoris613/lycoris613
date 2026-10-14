@@ -42,4 +42,23 @@ I keep my coursework in one place and write study notes along the way.
 
 </div>
 
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=Contributions" alt="Contributions" />
+
+<div align="center">
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
+
+<img src="https://raw.githubusercontent.com/lycoris613/lycoris613/output/github-snake.svg" alt="contribution snake" width="100%" />
+
+</div>
+
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=Connect" alt="Connect" />
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-lycoris613-05010f?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=05010f&color=7b2ff7)](https://github.com/lycoris613)
+![Visitors](https://komarev.com/ghpvc/?username=lycoris613&style=for-the-badge&color=7b2ff7&label=VISITORS&labelColor=05010f)
+
+</div>
+
 <img src="assets/footer.svg" width="100%" alt="end of line - cyberpunk footer" />
