@@ -2,10 +2,10 @@
 <rect x="0.5" y="0.5" width="349" height="199" rx="6" fill="#05010f" stroke="#7b2ff7"/>
 <text x="25" y="35" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#00e5ff">lycoris613&#x27;s GitHub Stats</text>
 <circle cx="32" cy="65" r="4" fill="#ff2bd6"/><text x="46" y="70" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#d7d2ff">Total Stars:</text><text x="250" y="70" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700" fill="#d7d2ff">0</text>
-<circle cx="32" cy="87" r="4" fill="#ff2bd6"/><text x="46" y="92" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#d7d2ff">Commits (last year):</text><text x="250" y="92" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700" fill="#d7d2ff">103</text>
+<circle cx="32" cy="87" r="4" fill="#ff2bd6"/><text x="46" y="92" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#d7d2ff">Commits (last year):</text><text x="250" y="92" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700" fill="#d7d2ff">105</text>
 <circle cx="32" cy="109" r="4" fill="#ff2bd6"/><text x="46" y="114" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#d7d2ff">Pull Requests:</text><text x="250" y="114" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700" fill="#d7d2ff">1</text>
 <circle cx="32" cy="131" r="4" fill="#ff2bd6"/><text x="46" y="136" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#d7d2ff">Issues:</text><text x="250" y="136" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700" fill="#d7d2ff">0</text>
 <circle cx="32" cy="153" r="4" fill="#ff2bd6"/><text x="46" y="158" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#d7d2ff">Public Repos:</text><text x="250" y="158" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700" fill="#d7d2ff">3</text>
-<circle cx="32" cy="175" r="4" fill="#ff2bd6"/><text x="46" y="180" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#d7d2ff">Contributed To:</text><text x="250" y="180" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700" fill="#d7d2ff">2</text>
+<circle cx="32" cy="175" r="4" fill="#ff2bd6"/><text x="46" y="180" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#d7d2ff">Contributed To:</text><text x="250" y="180" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700" fill="#d7d2ff">3</text>
 
 </svg>
