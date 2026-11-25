@@ -66,4 +66,12 @@ I keep my coursework in one place and write study notes along the way.
 
 </div>
 
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=Now+playing" alt="Now playing" />
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314kjzzbhp2fhygpymjs3cria5ri&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=true&bar_color_cover=false&bar_color=00ffd5)](https://spotify-github-profile.kittinanx.com/api/view?uid=314kjzzbhp2fhygpymjs3cria5ri&redirect=true)
+
+</div>
+
 <img src="assets/footer.svg" width="100%" alt="end of line - cyberpunk footer" />
