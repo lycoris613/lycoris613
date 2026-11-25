@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=Backend+%26+Frontend+bootcamp+student;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Python;Learning+in+public%2C+one+commit+at+a+time" alt="typing" />
 </a>
 
-<img src="assets/spotify-top.svg" width="100%" alt="" /><br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314kjzzbhp2fhygpymjs3cria5ri&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=true&bar_color_cover=false&bar_color=00ffd5)](https://spotify-github-profile.kittinanx.com/api/view?uid=314kjzzbhp2fhygpymjs3cria5ri&redirect=true)<br>
-<img src="assets/spotify-bottom.svg" width="100%" alt="" />
+<img src="assets/spotify-left.svg" align="top" alt="" />[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314kjzzbhp2fhygpymjs3cria5ri&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=true&bar_color_cover=false&bar_color=00ffd5)](https://spotify-github-profile.kittinanx.com/api/view?uid=314kjzzbhp2fhygpymjs3cria5ri&redirect=true)<img src="assets/spotify-right.svg" align="top" alt="" />
 
 </div>
 
