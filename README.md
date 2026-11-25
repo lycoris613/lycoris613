@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=Backend+%26+Frontend+bootcamp+student;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Python;Learning+in+public%2C+one+commit+at+a+time" alt="typing" />
 </a>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314kjzzbhp2fhygpymjs3cria5ri&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=true&bar_color_cover=false&bar_color=00ffd5)](https://spotify-github-profile.kittinanx.com/api/view?uid=314kjzzbhp2fhygpymjs3cria5ri&redirect=true)
+
 </div>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=About+me" alt="About me" />
@@ -63,14 +65,6 @@ I keep my coursework in one place and write study notes along the way.
 [![Spotify](https://img.shields.io/badge/Spotify-lycoris-1db954?style=for-the-badge&logo=spotify&logoColor=1db954&labelColor=05010f&color=1db954)](https://open.spotify.com/user/314kjzzbhp2fhygpymjs3cria5ri)
 [![Instagram](https://img.shields.io/badge/Instagram-mayilyko-e4405f?style=for-the-badge&logo=instagram&logoColor=e4405f&labelColor=05010f&color=e4405f)](https://www.instagram.com/mayilyko/)
 [![Roblox](https://img.shields.io/badge/Roblox-LEVIATHAN-e2231a?style=for-the-badge&logo=roblox&logoColor=e2231a&labelColor=05010f&color=e2231a)](https://www.roblox.com/users/516660721/profile)
-
-</div>
-
-## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=100000&color=00E5FF&vCenter=true&repeat=false&width=420&height=40&lines=Now+playing" alt="Now playing" />
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314kjzzbhp2fhygpymjs3cria5ri&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=true&bar_color_cover=false&bar_color=00ffd5)](https://spotify-github-profile.kittinanx.com/api/view?uid=314kjzzbhp2fhygpymjs3cria5ri&redirect=true)
 
 </div>
 
